@@ -20,10 +20,10 @@ A simple counter application built using **HTML, CSS, and JavaScript DOM manipul
 
 ```text
 Counter-Project/
+├── README.md
 ├── index.html
 ├── style.css
-├── script.js
-└── README.md
+└── script.js
 ```
 
 ## How to Run the Project
